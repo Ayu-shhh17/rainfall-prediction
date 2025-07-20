@@ -37,9 +37,9 @@ pip install pandas
             matplotlib
             seaborn
             scikit-learn
+3. pip install -r requirements.txt
 
-
-3. Run the script:
+4. Run the script:
 
 rainfall_prediction.py
 
